@@ -1,0 +1,5 @@
+# compiled binary
+/code-reviewer
+
+# env files
+.env
